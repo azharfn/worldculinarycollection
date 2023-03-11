@@ -14,3 +14,11 @@ Nasi goreng adalah makanan berupa nasi yang digoreng dan dicampur dalam minyak g
 Ramen adalah mie kuah Jepang yang sebenarnya berasal dari Cina dan telah menjadi hidangan yang sangat populer di Jepang.
 3.tempura
 Tempura adalah masakan yang dibuat dari aneka macam ikan atau sayuran yang dibalut dengan campuran tepung gandum, air dan telur lalu digoreng dengan minyak sayur.
+
+-Korea
+1.Kimchi
+Kimchi adalah makanan tradisional khas Korea Selatan yang terbuat dari sayur-sayuran dan berbagai bumbu yang difermentasikan.
+2.Bibimbap
+Bibimbap adalah masakan Korea berupa semangkuk nasi putih dengan lauk di atasnya berupa sayur-sayuran, daging sapi, telur, dan saus pedas gochujang.
+3.Tteokbokki
+Tteokbokki (bahasa Korea: 떡볶이) adalah hidangan Korea berupa tepung beras yang dimasak dalam bumbu gochujang yang pedas dan manis. 
